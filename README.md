@@ -37,7 +37,8 @@ It’s useful for learning about **decoders, combinational logic, and display sy
 ---
 
 ## 🖼 Screenshot  
-![screnshot](https://github.com/user-attachments/assets/b2af552f-e350-4b60-a7dc-d9d7c4a3c06f)
+<img width="1125" height="561" alt="screenshot" src="https://github.com/user-attachments/assets/43742b75-7285-477a-8009-62099f72cd01" />
+
 
 ---
 
